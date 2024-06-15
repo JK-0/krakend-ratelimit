@@ -1,4 +1,4 @@
-module github.com/breathbath/krakend-ratelimit/v3
+module github.com/jk-0/krakend-ratelimit/v3
 
 go 1.20
 
